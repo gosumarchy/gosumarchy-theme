@@ -1,0 +1,5 @@
+# Omarchy merges shell.<section>.toml into the generated shell.toml, replacing
+# that section wholesale. Only the alpha is named so every color keeps tracking
+# colors.toml. Same values as the Hex theme.
+[bar]
+background-alpha = 0.3

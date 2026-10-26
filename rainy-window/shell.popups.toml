@@ -1,0 +1,4 @@
+# Bar flyouts: dropdowns, OSD, popup cards. See shell.bar.toml for why only the
+# alpha is named.
+[popups]
+background-alpha = 0.4

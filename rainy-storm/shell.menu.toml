@@ -1,0 +1,4 @@
+# Launcher, clipboard and emoji cards. See shell.bar.toml for why only the
+# alpha is named.
+[menu]
+background-alpha = 0.4

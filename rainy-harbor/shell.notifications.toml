@@ -1,0 +1,3 @@
+# Notification cards. See shell.bar.toml for why only the alpha is named.
+[notifications]
+background-alpha = 0.4

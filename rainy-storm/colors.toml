@@ -1,0 +1,38 @@
+mode = "dark"
+
+
+accent = "#c4a5a0"
+selection = "#333333"
+muted = "#4d4d4c"
+
+background = "#161616"
+dark_background = "#111111"
+darker_background = "#0b0b0b"
+lighter_background = "#212121"
+
+foreground = "#d4cfcc"
+dark_foreground = "#807b78"
+light_foreground = "#e0dbd8"
+bright_foreground = "#efeae7"
+
+red = "#c47f7a"
+yellow = "#c9b48a"
+orange = "#c49478"
+green = "#9aab94"
+cyan = "#94aeb0"
+blue = "#8f9db0"
+magenta = "#b49aae"
+brown = "#6b5d55"
+
+bright_red = "#d8958f"
+bright_yellow = "#dcc8a0"
+bright_green = "#b0c0aa"
+bright_cyan = "#aac4c6"
+bright_blue = "#a6b3c6"
+bright_magenta = "#c8b0c2"
+
+# Read by the shell (popup, notification and lock borders) so they match
+# the window border. hyprland.lua repeats these values because a theme that
+# ships its own hyprland.lua replaces the template that would read them.
+hyprland_active_border = "rgba(3b3b3bee)"
+hyprland_inactive_border = "rgba(1c1c1caa)"
